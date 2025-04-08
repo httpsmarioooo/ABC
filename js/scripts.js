@@ -23,8 +23,7 @@ function cambiarFondoTitulo() {
 
 const navbar = document.getElementById("navbar");
 
-navbar.addEventListener("click", function (e) {
-    e.preventDefault(); 
+navbar.addEventListener("click", function () {
 
     cambiarFondoTitulo();
 });
