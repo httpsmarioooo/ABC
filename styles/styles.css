@@ -10,6 +10,17 @@ body {
     margin: 20px 0;
     color: #333;
   }
+
+  .botonColorido{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #277615;
+  }
+  
+  .botonColorido:hover{
+    color: #ddd;
+    background-color: #277615;
+  }
   
   #navbar {
     background-color: #4CAF50;
