@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fdfdfd;
+    background-color: #FFEB3B;
   }
   
   h1 {
@@ -10,6 +10,13 @@ body {
     margin: 20px 0;
     color: #333;
   }
+  h2 {
+    text-align: left;
+    margin: 20px 0;
+    color: #125012;
+    font-size: 40px;;
+  }
+
 
   .botonColorido{
     padding: 10px;
